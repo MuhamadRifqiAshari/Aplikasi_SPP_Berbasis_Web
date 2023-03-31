@@ -5,10 +5,13 @@
 # Aplikasi Pembayaran SPP
 Aplikasi SPP berbasis web adalah sebuah sistem pembayaran uang sekolah yang dapat diakses secara online melalui website. Aplikasi ini dirancang untuk memudahkan pengelolaan pembayaran uang sekolah bagi sekolah dan orang tua siswa.
 
+# Aplikasi Berbayar
+Terdapat sebuah password didalam nya, untuk mendapatkan nya klik Disini
+
  
 ## Ringkasan
 
-Terdapat 2 level untuk pengguna:
+Terdapat 3 level untuk pengguna:
 - Level 1: Admin
 - Level 2: Petugas
 - Level 3: Siswa
