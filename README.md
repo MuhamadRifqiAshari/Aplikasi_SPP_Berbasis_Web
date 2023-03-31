@@ -2,14 +2,13 @@
 <img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/uses-html.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/makes-people-smile.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
 </p>
 
+## Aplikasi ini Berbayar 
+Terdapat sebuah password didalam nya, untuk mendapatkan nya klik <a href="https://github.com/MuhamadRifqiAshari" target="_blank" class="animate__animated animate__bounceInLeft">Disini</a>
+
 # Aplikasi Pembayaran SPP
 Aplikasi SPP berbasis web adalah sebuah sistem pembayaran uang sekolah yang dapat diakses secara online melalui website. Aplikasi ini dirancang untuk memudahkan pengelolaan pembayaran uang sekolah bagi sekolah dan orang tua siswa.
 
-# Aplikasi Berbayar
-Terdapat sebuah password didalam nya, untuk mendapatkan nya klik <a href="https://github.com/MuhamadRifqiAshari" target="_blank"
-          class="animate__animated animate__bounceInLeft">Disini</a>
 
- 
 ## Ringkasan
 
 Terdapat 3 level untuk pengguna:
