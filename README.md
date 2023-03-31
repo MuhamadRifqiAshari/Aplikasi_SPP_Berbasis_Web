@@ -29,13 +29,13 @@ password : 1234
 
 <h3>Preview Aplikasi Aplikasi Restoran Web</h3>
 <p>Tampilan Masuk Aplikasi SPP</p>
-<img src="https://drive.google.com/file/d/1LqXqjYyxeuN1TVsdxAdeD1W_LhIsTN8x/view?usp=sharing">
+<img src="https://raw.githubusercontent.com/MuhamadRifqiAshari/Aplikasi_SPP_Berbasis_Web/main/Dokumentasi/Tampilan%20Masuk%20Aplikasi.png">
 
-<p>Tampilan Register</p>
-<img src="https://github.com/MuhamadRifqiAshari/Aplikasi-Restoran-Web-Versi-Ke3/blob/main/Dokumentasi/Tampilan%20Register.png">
+<p>Tampilan Dasboard Admin</p>
+<img src="https://raw.githubusercontent.com/MuhamadRifqiAshari/Aplikasi_SPP_Berbasis_Web/main/Dokumentasi/Tampilan%20Dasboard%20Admin.png">
 
-<p>Tampilan Admin</p>
-<img src="https://github.com/MuhamadRifqiAshari/Aplikasi-Restoran-Web-Versi-Ke3/blob/main/Dokumentasi/Tampilan%20Admin.png">
+<p>Tampilan Dasboard petugas</p>
+<img src="https://raw.githubusercontent.com/MuhamadRifqiAshari/Aplikasi_SPP_Berbasis_Web/main/Dokumentasi/Tampilan%20Dasboard%20petugas.png">
 
-<p>Tampilan User</p>
-<img src="https://github.com/MuhamadRifqiAshari/Aplikasi-Restoran-Web-Versi-Ke3/blob/main/Dokumentasi/Tampilan%20User.png">
+<p>Tampilan Dasboard Siswa</p>
+<img src="https://raw.githubusercontent.com/MuhamadRifqiAshari/Aplikasi_SPP_Berbasis_Web/main/Dokumentasi/Tampilan%20Dasboard%20Siswa.png">
