@@ -22,8 +22,8 @@ username : admin <br/>
 password : admin
 
 **** Untuk Petugas ****<br/>
-username : Petugas <br/>
-password : Petugas
+username : petugas <br/>
+password : petugas
 
 **** Untuk Siswa ****<br/>
 username : 1234 <br/>
